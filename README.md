@@ -10,3 +10,6 @@
 학교에서 에너지 절약 iot 주제로 만든 프로젝트입니다.
 
 라즈베리파이3에서 텐서플로우를 이용하여 사람을 인식하면 화면에 카운트가 올라가고 LED가 켜집니다.
+
+
+참고 링크 : https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi
